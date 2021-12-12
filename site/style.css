@@ -11,3 +11,7 @@ h1 {
     float: left;
     background-color: #333;
 }
+.navbar a {
+    color: white;
+    font-weight: bold;
+}
